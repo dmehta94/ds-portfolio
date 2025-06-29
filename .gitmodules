@@ -1,0 +1,33 @@
+[submodule "project-1"]
+	path = project-1
+	url = git@git.generalassemb.ly:dmehta94/project-1.git
+[submodule "project-2"]
+	path = project-2
+	url = git@git.generalassemb.ly:dmehta94/project-2.git
+[submodule "project-3"]
+	path = project-3
+	url = git@git.generalassemb.ly:dmehta94/project-3.git
+[submodule "Hackathon-Good-Fast-Cheap"]
+	path = Hackathon-Good-Fast-Cheap
+	url = git@git.generalassemb.ly:dmehta94/Hackathon-Good-Fast-Cheap.git
+[submodule "project-5"]
+	path = project-5
+	url = git@git.generalassemb.ly:dmehta94/project-5.git
+[submodule "project-capstone"]
+	path = project-capstone
+	url = git@git.generalassemb.ly:dmehta94/project-capstone.git
+[submodule "project-1-educational-outcomes-and-wealth-inequity"]
+	path = project-1-educational-outcomes-and-wealth-inequity
+	url = git@github.com:dmehta94/project-1-educational-outcomes-and-wealth-inequity
+[submodule "project-2-ames-housing-prediction"]
+	path = project-2-ames-housing-prediction
+	url = git@github.com:dmehta94/project-2-ames-housing-prediction
+[submodule "project-3-reddit-nlp-litigation-analysis"]
+	path = project-3-reddit-nlp-litigation-analysis
+	url = git@github.com:dmehta94/project-3-reddit-nlp-litigation-analysis
+[submodule "project-5-new-york-state-of-energy"]
+	path = project-5-new-york-state-of-energy
+	url = git@github.com:dmehta94/project-5-new-york-state-of-energy
+[submodule "project-capstone-transit-inequity-eastern-queens"]
+	path = project-capstone-transit-inequity-eastern-queens
+	url = git@github.com:dmehta94/project-capstone-transit-inequity-eastern-queens
