@@ -13,3 +13,6 @@
 [submodule "project-capstone-transit-inequity-eastern-queens"]
 	path = project-capstone-transit-inequity-eastern-queens
 	url = git@github.com:dmehta94/project-capstone-transit-inequity-eastern-queens
+[submodule "ai-resume-optimizer"]
+	path = ai-resume-optimizer
+	url = https://github.com/dmehta94/ai-resume-optimizer/
