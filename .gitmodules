@@ -16,3 +16,6 @@
 [submodule "ai-resume-optimizer"]
 	path = ai-resume-optimizer
 	url = https://github.com/dmehta94/ai-resume-optimizer/
+[submodule "job-campaign-tracker"]
+	path = job-campaign-tracker
+	url = https://github.com/dmehta94/job-campaign-tracker
