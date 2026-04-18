@@ -13,6 +13,13 @@ A transit equity analysis of 23 bus routes and 2,300 static stops across Eastern
 
 ---
 
+### [Job Campaign Tracker](https://github.com/dmehta94/job-campaign-tracker)
+**Python, Flask, SQLite, Jinja2, raw SQL (CTEs, window functions, correlated subqueries)**
+
+A Flask web application for tracking job search activity across organizations, contacts, interactions, and applications. Built without an ORM — all database access uses raw SQL — to close gaps in CTEs, window functions, and correlated subqueries through applied practice. The dashboard surfaces follow-ups due within seven days, active conversations, an applications pipeline, and an org activity ranking using a CTE with `RANK() OVER`. Includes a full `pytest` suite covering route status codes, form submissions, and dashboard query shape verification. Structured as a portfolio project with Conventional Commits throughout, Google-style docstrings, and type hints on all application code.
+
+---
+
 ### [AI Resume Optimizer](https://github.com/dmehta94/ai-resume-optimizer)
 **Python, OpenAI GPT-4 API, pdfplumber, prompt engineering**
 
