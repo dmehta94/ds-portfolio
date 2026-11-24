@@ -19,3 +19,6 @@
 [submodule "job-campaign-tracker"]
 	path = job-campaign-tracker
 	url = https://github.com/dmehta94/job-campaign-tracker
+[submodule "connecting-queens-equity"]
+	path = connecting-queens-equity
+	url = https://github.com/dmehta94/connecting-queens-equity.git
